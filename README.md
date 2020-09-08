@@ -8,6 +8,7 @@
 ## [【Day 5：神經網路的效能調校(續)】](https://ithelp.ithome.com.tw/articles/10234203)
 ## [【Day 06：Keras 模型結構】](https://ithelp.ithome.com.tw/articles/10234389)
 ## [【Day 07：Keras Callback 的使用】](https://ithelp.ithome.com.tw/articles/10234641)
+## [【Day 08：TensorBoard 的初體驗】](https://ithelp.ithome.com.tw/articles/10234818)
 
 
 
