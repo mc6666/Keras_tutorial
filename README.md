@@ -10,7 +10,7 @@
 ## [【Day 07：Keras Callback 的使用】](https://ithelp.ithome.com.tw/articles/10234641)
 ## [【Day 08：TensorBoard 的初體驗】](https://ithelp.ithome.com.tw/articles/10234818)
 ## [【Day 09：再探TensorBoard】](https://ithelp.ithome.com.tw/articles/10235066)
-## [【Day 10：自訂 Keras Callback 追蹤訓練過程】](https://ithelp.ithome.com.tw/articles/10235293)
+## [【Day 10：運用自訂Callback 追蹤訓練過程】](https://ithelp.ithome.com.tw/articles/10235293)
 
 
 
