@@ -13,7 +13,7 @@
 ## [【Day 10：運用自訂Callback 追蹤訓練過程】](https://ithelp.ithome.com.tw/articles/10235293)
 ## [【Day 11：卷積神經網路(CNN) 剖析】](https://ithelp.ithome.com.tw/articles/10235547)
 ## [【Day 12：影像資料增補(Data Augmentation)】](https://ithelp.ithome.com.tw/articles/10235805)
-
+## [【Day 13：測試 CNN 的桌面程式】](https://ithelp.ithome.com.tw/articles/10236118)
 
 
 
