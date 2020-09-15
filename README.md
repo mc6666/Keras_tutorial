@@ -14,7 +14,7 @@
 ## [【Day 11：卷積神經網路(CNN) 剖析】](https://ithelp.ithome.com.tw/articles/10235547)
 ## [【Day 12：影像資料增補(Data Augmentation)】](https://ithelp.ithome.com.tw/articles/10235805)
 ## [【Day 13：測試 CNN 的桌面程式】](https://ithelp.ithome.com.tw/articles/10236118)
-## [【Day 14：預先訓練好的模型(Keras Applications)】](https://ithelp.ithome.com.tw/articles/10236654)
+## [【Day 15：戴口罩偵測實作】](https://ithelp.ithome.com.tw/articles/10237020)
 
 
 
