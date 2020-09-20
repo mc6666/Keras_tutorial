@@ -18,6 +18,9 @@
 ## [【Day 15：戴口罩偵測實作】](https://ithelp.ithome.com.tw/articles/10237020)
 ## [【Day 16：TensorFlow 2 Object Detection API 安裝】](https://ithelp.ithome.com.tw/articles/10237443)
 ## [【Day 17：TensorFlow 2 Object Detection API 實作】](https://ithelp.ithome.com.tw/articles/10238231)
+## [【Day 18：自駕車(Self-driving) 動態物件偵測實作】](https://ithelp.ithome.com.tw/articles/10238971)
+## [【Day 19：Autoencoder 與去除雜訊】](https://ithelp.ithome.com.tw/articles/10239870)
+## [【Day 20：使用 U-Net 作影像分割(Image Segmentation)】](https://ithelp.ithome.com.tw/articles/10240314)
 
 
 
